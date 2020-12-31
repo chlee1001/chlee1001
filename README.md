@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 ### 💻 Languages
-- 
-- 
-- 
+- Python
+- C++
+- Javascript
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chlee1001)](https://github.com/chlee1001/github-readme-stats)
