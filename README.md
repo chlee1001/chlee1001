@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chlee1001&count_private=true&show_icons=true&theme=nightowl)](https://github.com/chlee1001/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlee1001&hide=scss,css&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlee1001&hide=scss,css&langs_count=7&layout=compact&exclude_repo=velog-reader,react-nodebird,JeonJu_App)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Recently used languages
 - Python
