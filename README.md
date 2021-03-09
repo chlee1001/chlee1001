@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chlee1001.github.io/)](https://chlee1001.github.io/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chaehy2on/)](https://www.instagram.com/chaehy2on/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlee1001@gachon.ac.kr)](mailto:chlee1001@gachon.ac.kr)
+[![Blog](https://img.shields.io/badge/Blog-chlee1001.github.io-green.svg)](https://chlee1001.github.io/)
 
 
 🌱 I’m currently learning algorithm for coding test
