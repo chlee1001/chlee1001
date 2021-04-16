@@ -33,13 +33,13 @@ Daily routine :coffee:,👩‍💻,
 
 <p align="center">
   <a target="_blank" href="https://www.instagram.com/chaehy2on/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:chlee1001@gachon.ac.kr?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="mailto:chlee1001@gachon.ac.kr?subject=Hello%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchlee1001%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
 
-<h3></h3>
+<h3> </h3><h4> </h4>
 <h3 align="center">💜 Career 💜</h3>
 
 |           **Type**           |      **Date**       |          **Contents**           |        **Organization**         |
@@ -47,7 +47,7 @@ Daily routine :coffee:,👩‍💻,
 | **:mortar_board: Education** |     2016. 03 ~      |     Department of Software      |      **Gachon University**      |
 |     **Military service**     | 2018. 02 ~ 2019. 10 |            Signaller            |          **ROK Army**           |
 |   **External activities**    |     2021. 1 ~ 3     |    Short-term field training    | **emro - AI Business Division** |
-|   **Research activities**    |     2021. 04 ~      | Undergraduate Research Students |             **-**              |
+|   **Research activities**    |     2021. 04 ~      | Undergraduate Research Students |             **-**               |
 
 ### 
 
