@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chaehyeon%20Lee&fontSize=90)
 
----
-
----
-
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
 I'm Chaehyeon Lee<br>
