@@ -1,10 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chaehyeon%20Lee&fontSize=90)
 
+---
+
+---
+
 <h3 align="center"> 👋 Hi there,</h3>
 <p align="center">
-I'm Chaehyeon Lee <br>
-Goal is to become a machine learning full stack developer. 🌱 <br>
-Daily routine :coffee:,👩‍💻,
+I'm Chaehyeon Lee<br>
+I am currently a student in the Department of Software at Gachon University.<br>
+My Goal is to become a machine learning full stack developer. 🌱 <br>
+ <br>
 </p>
 <h3 align="center">✨ Tech Stack ✨ </h3>
 <p align="center">
@@ -14,51 +19,51 @@ Daily routine :coffee:,👩‍💻,
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript%20-yellow.svg?&style=flat-squar&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-squar&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<h3 align="center">•••</h3>
-
-<p align="center">
-  <a target="_blank" href="https://chlee1001.github.io/categories/IT%EC%A0%95%EB%B3%B4/"><img src="http://img.shields.io/badge/-IT NEWS-yellow?style=flat-square&logo=github&locoColor=white"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://chlee1001.github.io/"><img src="https://img.shields.io/badge/Tech Blog-%2312100E.svg?&style=flat-square&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <a target="_blank" href="https://www.instagram.com/chaehy2on/"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:chlee1001@gachon.ac.kr?subject=Hello%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">
-  <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchlee1001%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
-</p>
-
-<h3> </h3><h4> </h4>
-<h3 align="center">💜 Career 💜</h3>
-
-|           **Type**           |      **Date**       |          **Contents**           |        **Organization**         |
-| :--------------------------: | :-----------------: | :-----------------------------: | :-----------------------------: |
-| **:mortar_board: Education** |     2016. 03 ~      |     Department of Software      |      **Gachon University**      |
-|     **Military service**     | 2018. 02 ~ 2019. 10 |            Signaller            |          **ROK Army**           |
-|   **External activities**    |     2021. 1 ~ 3     |    Short-term field training    | **emro - AI Business Division** |
-|   **Research activities**    |     2021. 04 ~      | Undergraduate Research Students |             **-**               |
-
-### 
+ <br>
 
 
-🌱 I’m currently learning algorithm for coding test
+<h3 align="left">💜 Career 💜</h3>
+
+|        **Type**         |      **Date**       |          **Contents**           |        **Organization**         |
+| :---------------------: | :-----------------: | :-----------------------------: | :-----------------------------: |
+|   ****🎓** Education**   |     2016. 03 ~      |     Department of Software      |      **Gachon University**      |
+|  **Military service**   | 2018. 02 ~ 2019. 10 |            Signaller            |          **ROK Army**           |
+| **External activities** | 2021. 01 ~ 2021.03  |    Short-term field training    | **emro - AI Business Division** |
+| **Research activities** |     2021. 04 ~      | Undergraduate Research Students |        **-**<br /><br />        |
+
+<h3 align="left">💜 My Project 💜</h3>
+
+|                       Title                       |     **Date**      |                    **Simple Description**                    |                         Using Skills                         |                             Link                             |
+| :-----------------------------------------------: | :---------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                     **MeBot**                     | 2017.09 ~ 2017.12 | A chatbot that provides information mainly necessary for school life using the KakaoTalk auto-reply API | **AWS EC2, Node.js, MySQL, Ubuntu, Kakao AutoReply API, Google Cloud Platform , 밥대생API 등** | [Github](https://github.com/chlee1001/MeBot)<br /><br />[Demo Video](https://youtu.be/FLkv7BF1rV4) |
+|                  **HwajilGuji**                   | 2020.04 ~ 2020.07 | An Android application that improves image resolution in a mobile environment by using the pytorch android module for a neural network that has been trained in advance through deep learning. |                     **Android, Pytorch**                     | [Github](https://github.com/MP-TermProject/HwajilGuji)<br /><br />[Demo Video](https://youtu.be/HeCJ8irDXdg) |
+|     **League of Legends win/loss prediction**     | 2020.04 ~ 2020.07 | Predict which team will win in the future by considering various situations of the winning team through the ‘League of Legend Win dataset’ provided by Kaggle. |     **Python, Scikit Learn, Numpy, Pandas, Matplot 등**      |           [Github](http://m.site.naver.com/0MP7o)            |
+| **Clustering<br /> population growth and income** | 2020.09 ~ 2020.12 | Visualize after clustering based on the population growth rate and income standard of the world and each country using the'World Development Indicator' |     **Python, Scikit Learn, Numpy, Pandas, Matplot 등**      | [Github](https://github.com/chlee1001/MachineLearning-Project) |
+|              **Gachon Route Guide**               | 2020.09 ~ 2020.12 | Using Dijkstra algorithm, derive the shortest distance for each entrance and exit of a building in Gachon University |                          **Python**                          |           [Github](http://m.site.naver.com/0MP3l)            |
+|                   **Aquarium**                    | 2020.09 ~ 2020.12 |             Creating a fish tank using Three.js              |            **Docker, Node.js-Express, Three.js**             | [Github](https://github.com/chlee1001/Computer-Graphics_TermProject)<br />[Demo Video](https://youtu.be/Goi1VeH1tBU) |
+|               **AI Profile Finder**               |     2020.04 ~     | We devised a job search service for actors to solve the problem of taking too long to screen profiles...[more](https://github.com/rheeeuro/profile-finder/wiki) | **Docker, Node.js-Express, Google Teachable Machine, Keras, OpenCV**<br />**AWS S3, MongoDB 등** | [Github](https://github.com/rheeeuro/profile-finder)<br />[1st Demo](https://keyword.chlee1001.synology.me/)<br />[Final Demo](https://profile-finder0.herokuapp.com/) |
+|                                                   |                   |                                                              |                                                              |                                                              |
+
+
 
 ### 💻 Languages
+
 - Recently used languages
-    - Python
-    - C++
-    - Javascript
+  - Python
+  - C++
+  - Javascript
+
+
 
 
 
