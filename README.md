@@ -4,7 +4,7 @@
 <p align="center">
 I'm Chaehyeon Lee<br>
 I am currently a student in the Department of Software at Gachon University.<br>
-My Goal is to become a machine learning full stack developer. 🌱 <br>
+My Goal is to become a Full Stack developer. 🌱 <br>
  <br>
 </p>
 <h3 align="center">✨ Tech Stack ✨ </h3>
