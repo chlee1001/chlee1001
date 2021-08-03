@@ -5,7 +5,11 @@
 I'm Chaehyeon Lee<br>
 I am currently a student in the Department of Software at Gachon University.<br>
 My Goal is to become a Full Stack developer. 🌱 <br>
- <br>
+<p align='center'>
+  <a href="https://chlee1001.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-7957D5?style=for-the-badge&logo=Buefy&logoColor=white"/></a>&nbsp
+  <a href="https://portfolio.chlee1001.synology.me/"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=pfSense&logoColor=white"/></a>
+</p>  
+ <br/><br/>
 </p>
 <h3 align="center">✨ Tech Stack ✨ </h3>
 <p align="center">
