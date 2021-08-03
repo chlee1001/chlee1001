@@ -57,7 +57,7 @@ My Goal is to become a Full Stack developer. 🌱 <br>
 |                   **Aquarium**                    | 2020.09 ~ 2020.12 |             Creating a fish tank using Three.js              |            **Docker, Node.js-Express, Three.js**             | [Github](https://github.com/chlee1001/Computer-Graphics_TermProject)<br />[Demo Video](https://youtu.be/Goi1VeH1tBU) |
 |               **AI Profile Finder**               |     2020.04 ~     | We devised a job search service for actors to solve the problem of taking too long to screen profiles...[more](https://github.com/rheeeuro/profile-finder/wiki) | **Docker, Node.js-Express, Google Teachable Machine, Keras, OpenCV**<br />**AWS S3, MongoDB etc** | [Github](https://github.com/rheeeuro/profile-finder)<br />[1st Demo](https://keyword.chlee1001.synology.me/)<br />[Final Demo](https://profile-finder0.herokuapp.com/) |
 |          **Deep learning competitions**           | 2021.03 ~ 2021.06 | By making an image denoising model, a performance competition competition |                     **Python, Pytorch**                      |                        To be updated                         |
-
+|                     Stock Bot                     |     2021.08 ~     |     특정 키워드 관련 테마주와 시장가 정보 제공 (진행중)      |       AWS EC2, Ubuntu, Java, SpringBoot, MySQL, Python       |     [Github](https://github.com/FIN-Study/Stock-ChatBot)     |
 
 
 ### 💻 Languages
