@@ -15,12 +15,13 @@ My Goal is to become a Full Stack developer. 🌱 <br>
 </p>
 <h3 align="center">✨ Tech Stack ✨ </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java%20-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/springboot%20-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
 </p>
 <p align="center">
+
   <img src="https://img.shields.io/badge/AWS EC2%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS S3%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/AWS RDS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
@@ -32,15 +33,20 @@ My Goal is to become a Full Stack developer. 🌱 <br>
 </p>
 
 
+
  <br/>
 
 <h4 align="center" >Also, I've experienced</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Android%20-3DDC84.svg?&style=flat-square&logo=android&logoColor=%2361DAFB"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java%20-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/springboot%20-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=flat-square&logo=Docker&logoColor=%2361DAFB"/>&nbsp;&nbsp;
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
 </p>
+
 
 
  <br>
