@@ -9,7 +9,9 @@ My Goal is to become a Full Stack developer. 🌱 <br>
 <p align='center'>
   <a href="mailto:lch50484084@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://devch.co.kr/"><img src="https://img.shields.io/badge/Tech%20Blog-7957D5?style=for-the-badge&logo=Buefy&logoColor=white"/></a>&nbsp
-  <a href="https://portfolio.devch.co.kr/"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=pfSense&logoColor=white"/></a>
+  <a href="https://docs.google.com/document/d/1_W0Box42tGh4Tps8oCFkPGE2qS6C5D-6hb5Mvbav-r0/edit?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=pfSense&logoColor=white"/></a>
+
+  
 </p>  
  <br/><br/>
 </p>
